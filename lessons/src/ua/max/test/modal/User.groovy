@@ -14,5 +14,10 @@ import groovy.transform.ToString
 class User {
     def name;
     def surname;
+
+    public User(String name, String surname) {
+        this.name = name;
+        this.surname = surname;
+    }
 }
 
