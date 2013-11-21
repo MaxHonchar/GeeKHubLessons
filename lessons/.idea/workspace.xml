@@ -5,8 +5,324 @@
     <ignored path="lessons.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/User.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1381788705992" ignored="false" />
-    <file path="/Main.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1381788736250" ignored="false" />
-    <file path="/MainTests.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1381875997266" ignored="false" />
+    <file path="/Main.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382624504057" ignored="false" />
+    <file path="/MainTests.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382613291188" ignored="false" />
+    <file path="/a.dummy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435631837" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/CommonPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382626869787" ignored="false" />
+    <file path="/CommonPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382615640208" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/AbstractClass.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382967221978" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyCheckCorrectMultiPriceCheckbox.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384434052467" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/BuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/BuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382708186527" ignored="false" />
+    <file path="/task2.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382621107166" ignored="false" />
+    <file path="/HomeTask2.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382624829855" ignored="false" />
+    <file path="/fragment.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384443747340" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/BasePage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/NimbleCommerce/HelperActions.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514899167" ignored="false" />
+    <file path="/AbstractClass.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382967220813" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/driverFactory/WebDriverFactory.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384445400809" ignored="false" />
+    <file path="/WebDriverFactory.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384445399762" ignored="false" />
+    <file path="/BasePage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382625614689" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/SubscriptionApiCustomPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpWrongZip.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpExistUser.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpWrongPassword.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpBuyFlowV2.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerLoginRedirectsTests.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382626326621" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerLoginAuthApi.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/FacebookLoginFBMainSiteLoginedCases.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384422250258" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpWrongConfirmPassword.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerLoginAuthApiMainSite.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerLogin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384515967672" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignInBuyFlowV2AttributesSaved.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpWrongEmail.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUp.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpPartToFullReg.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/FacebookLoginHeaderAndLoginPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/EmployeeLogin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384421938586" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpRequiredFields.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/design/VerifyBuyButton.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382626212721" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpWrongUsername.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/design/ReceiveBuyButtonInfo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382626212721" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpRememberMeCheckbox.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/MyAccountPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431869499" ignored="false" />
+    <file path="/HelperActions.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384513650809" ignored="false" />
+    <file path="/Dummy.txt" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384438798494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/AllShoppingCartTest.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384439838473" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/pom.xml" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382955655386" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayEx/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithReachedLimitForPromo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyDealWithZeroPrice.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayPal/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyAllTest.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TnsPay/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyDropdowns.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuySameAsBillingInfoCheckbox.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickCompleteOrderButtonHide.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430991957" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Admeris/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyViaPaypalCheckout.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/InnoPay/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyCheckErrorsWhenGiftingLimitExpired.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuy.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431437061" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyCheckErrorsWhenItemsLimitExpired.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickMakeDefaultCCBuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyGiftThisDealRedirectsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyMultiMerchantDealWithAttributes.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/MiraPay/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickSaveCCBuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickEditingCCBuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431081370" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/SubscribingAPIBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PesoPay/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickVerifyDefaultCardOnBuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431196642" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickDeletingCCBuyPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431044224" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Piraeus/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988916" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/ShoppingCartPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435681401" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Buckaroo/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/LoginPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/GiftPopup.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/DealDetailsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384432885939" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartAddItem.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384433986934" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuySaving.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/OnlineMart/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/SplashPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508685775" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Paymentech/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Przelewy24/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Amex/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/AuthorizeNet/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Dibs/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TrustCommerce/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Caixa/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Edgil/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Litle/BuyDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuyOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431642676" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyCorrectProductTaxesCalculation.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/UnSubscribeFromEmailLink.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382965978739" ignored="false" />
+    <file path="/UnSubscribeFromEmailLink.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382965967667" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/.idea/workspace.xml" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382693262715" ignored="false" />
+    <file path="/GiftPopup.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382692598510" ignored="false" />
+    <file path="/DealDetailsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384432885939" ignored="false" />
+    <file path="/LoginPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382692760260" ignored="false" />
+    <file path="/MyAccountPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382692858271" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/MyCreditsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/MyEmailSettingsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/MyEmailSettingsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382692922166" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/wl/OldConfirmationPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/OldConfirmationPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382692988939" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/SubscribeFromOldGbPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/SubscribeFromOldGbPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382693082196" ignored="false" />
+    <file path="/ShoppingCartPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384433023593" ignored="false" />
+    <file path="/SplashPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508660307" ignored="false" />
+    <file path="/SubscriptionApiCustomPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382693701702" ignored="false" />
+    <file path="/AllShoppingCartTest.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382716062970" ignored="false" />
+    <file path="/ShoppingCartOneClickBuySaving.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382696625544" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuyDefaultCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431464356" ignored="false" />
+    <file path="/ShoppingCartOneClickBuyDefaultCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382701437328" ignored="false" />
+    <file path="/ShoppingCartOneClickBuy.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382953133555" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/resources/properties/nc-build.properties" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384428126581" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Buckaroo/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/OnlineMart/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/OnlineMart/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Paymentech/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Paymentech/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithCreditCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Przelewy24/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/AuthorizeNet/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TrustCommerce/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TrustCommerce/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/PromoCodeForSingleUser.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/FacebookLoginNewBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384425708573" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/FacebookLoginRedirectsTest.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384426525513" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignInRememberMeBuyFlowV2.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftLinkTestEditInfo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftPopupTestErrorFields.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftLinkClickLoggedUnloggedUser.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftLinkNotAvailableProgramDisable.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftLinkAvailableProgramEnable.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftLinkNotAvailableGiftPerDealDisable.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftPopupTestSavedInfo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/gift/GiftPopupTestDeleteButton.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/SplashGeolocated.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508720996" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/WLRedirects.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508834028" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/SEOHomePage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/SplashNever.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/SplashByDirectLink.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508702880" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/splash/SplashAlways.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384507270821" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/UnSubscribeByAction.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/SubscribeFromHeader.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/UnSubscribeOnMyAccountEmailSettingsPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/MyEmailSettingsSubscription.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/SubscriptionViaApi.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/SubscribeFromPromtToSignUpForDAPopup.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickMyAccountSaveCC.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431138921" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickAskCVVWhenSavingEditingCC.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430800231" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickDisabledCantAddCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickMakeDefaultCardMyAccount.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431107676" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickValidationForErrors.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickDeletingCardMyAccount.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431008016" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickTestSwitchCardCheckbox.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickBuyingWithSavedCCValidationCVV.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430920417" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickUseNewCardTestLink.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431160235" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickEditingCardMyAccount.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickCheckBillingInfoAfterCCDelete.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430943278" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/one_click_buy/OneClickDontAskCvvWhenBuying.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431066373" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Amex/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431229538" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Amex/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Dibs/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431248544" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Dibs/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Caixa/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Edgil/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431277110" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382959787337" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Edgil/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartPromoCodeOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382959776116" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Litle/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431296958" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartGiftCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382967169428" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Litle/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartGiftCardOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayEx/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayEx/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuyDefaultCardOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431525668" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/ConstantsSelenium.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714965354" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayPal/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431314306" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PayPal/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TnsPay/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/TnsPay/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Admeris/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431216141" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Admeris/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/nc/SettingsRequiredAndSubscriptionPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/InnoPay/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714988915" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/InnoPay/SimulateErrors.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/nc/NCLoginPage.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990303" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/InnoPay/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/MiraPay/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431304552" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/pages/nc/createDeal/CreateDealCommon.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430143335" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/MiraPay/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PesoPay/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384431325378" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/PesoPay/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Piraeus/BuyWithSavedCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/paymentSystems/Piraeus/BuyWithCredits.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714990304" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/resources/properties/nc-stage.properties" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382965846364" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/BuyFlowBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/BuyFlowBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382706532411" ignored="false" />
+    <file path="/ConstantsSelenium.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382714958936" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/Constants.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384445249925" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/utils/CreateManyDeals.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430160162" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/utils/AdditionalSubscriptionBean2.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/utils/AdditionalSubscriptionBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/GiftCardBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/utils/CreateNNDeals.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/DealTypeBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/PromoCodeBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Caixa.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Dibs.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/BillingInformationBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/EnvironmentBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/PersonalCredentialBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384428230228" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/properties/ConfigurationProperties.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/CreditCardBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/inputBeans/CreateDealBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/P24.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/common/PageVerificationError.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyValidationWrongInfo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithGiftCardWithoutPin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/PromoAndCreditsDisabledforDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/PromoCodeCampaign.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyValidationEmptyFields.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithMultipleGiftCards.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithPromoCodeUnloggedUser.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithGiftCardWithPin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithCreditsAndPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyPredefiningFieldsAfterBuy.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithExpiredPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyMultiPricedDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/PromoCodeUseWhenProgramDisable.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/buy/BuyWithAttribute.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/AllLoginTest.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384426705077" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/AmexServe.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Litle.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Piraeus.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/OnlineMart.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignUpAuthApi.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/PesoPay.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/TnsPay.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/InnoPay.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Buckaroo.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Admeris.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/MiraPay.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Edgil.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/TrustCom.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/AuthorizeNet.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/Paymentech.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/PayPal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/main/java/paymentCardBeans/PayEx.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartCompatibility.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartBuyBasicDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435525498" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/auth/CustomerSignInFromBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartLoginForm.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435694233" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartAutorization.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartGifting.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartBuyBasicDealOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435550418" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/shoppingCart/ShoppingCartOneClickBuySavingOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/test/java/subscription/SubscribeFromBuyFlowV2.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382952418691" ignored="false" />
+    <file path="/ShoppingCartOneClickBuyOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382953252013" ignored="false" />
+    <file path="/ShoppingCartPromoCode.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382958003337" ignored="false" />
+    <file path="/ShoppingCartPromoCodeOldBuyFlow.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382959766969" ignored="false" />
+    <file path="/ShoppingCartGiftCard.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1382967155431" ignored="false" />
+    <file path="/EmployeeLogin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384421935781" ignored="false" />
+    <file path="/ASTTransformation.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384424180249" ignored="false" />
+    <file path="/LocalASTTransformation.groovy" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384424435438" ignored="false" />
+    <file path="/nc-build.properties" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384427526056" ignored="false" />
+    <file path="/CreateManyDeals.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430154057" ignored="false" />
+    <file path="/PersonalCredentialBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384428226670" ignored="false" />
+    <file path="/CreateDealCommon.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384430143335" ignored="false" />
+    <file path="/ShoppingCartBuyBasicDeal.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384435500876" ignored="false" />
+    <file path="/ShoppingCartAddItem.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384433985108" ignored="false" />
+    <file path="/BuyCheckCorrectMultiPriceCheckbox.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384434050181" ignored="false" />
+    <file path="D:/workspaces/ecommerce/SeleniumTests/src/resources/properties/selenium.properties" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384515049811" ignored="false" />
+    <file path="/selenium.properties" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384515049068" ignored="false" />
+    <file path="/Constants.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384445229904" ignored="false" />
+    <file path="/SplashAlways.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384507269927" ignored="false" />
+    <file path="/SplashGeolocated.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508719554" ignored="false" />
+    <file path="/SplashByDirectLink.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508699617" ignored="false" />
+    <file path="/WLRedirects.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384508832464" ignored="false" />
+    <file path="/CustomerLogin.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384515962931" ignored="false" />
+    <file path="D:/workspaces/ecommerce/gb/src/main/java/gb/app/controllers/AdditionalHelperActionsController.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384513898625" ignored="false" />
+    <file path="D:/workspaces/ecommerce/gb/src/main/java/gb/app/controllers/CreateGroupBuyController.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514170005" ignored="false" />
+    <file path="D:/workspaces/ecommerce/gb/src/main/java/gb/app/controllers/CreateGBOfferController.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514170005" ignored="false" />
+    <file path="D:/workspaces/ecommerce/gb/src/main/java/gb/app/controllers/UploadController.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514170005" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/WhiteLabelDailyAlertsManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/SubMerchantPaymentsManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/gb/app/billing/GroupBuyBillingManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyMerchantRAFManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/hibernate/entities/GroupBuy.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/gb/src/main/webapp/WEB-INF/web.xml" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/hibernate/entities/GroupBuySubMerchant.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyRequestManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/gb/app/beans/OfferBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/aop/SecurityActionAspect.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/common/src/main/java/ims/lib/util/DateUtil.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/AppSettings.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyMerchantManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/hibernate/entities/GroupBuyMerchantSettings.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/constant/Constants.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyMerchantCategoryManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/ResellerManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/common/src/main/java/gb/api/nimbleNetwork/beans/json/NetworkAutopublishBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/gb/app/beans/GroupBuyImageBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyEmailCampaignManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/common/src/main/java/gb/api/nimbleNetwork/beans/response/NetworkAutopublishInfoResponseBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/common/src/main/java/gb/api/nimbleNetwork/beans/response/NetworkDealInfoResponseBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyImageManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/common/src/main/java/gb/api/nimbleNetwork/beans/request/BaseNetworkAPIRequestBean.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/gb/app/session/GbSessionImages.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/GroupBuyMerchantCustomContentManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/hibernate/entities/GroupBuyProduct.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/managers/NimbleNetworkManager.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/ims/app/helpers/GBSSLHelper.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
+    <file path="D:/workspaces/ecommerce/app-code/src/main/java/gb/api/impl/nimbleNetwork/NimbleNetworkAPIClient.java" changelist="fc4498d6-bf49-4f66-96bb-fd84ef31b1ed" time="1384514794494" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +337,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -30,6 +344,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -46,6 +361,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -57,6 +373,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -66,19 +384,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/User.groovy">
+      <file leaf-file-name="HomeTask1.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/homeTask1/HomeTask1.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="21" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+            <state line="23" column="25" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTests.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/MainTests.groovy">
+      <file leaf-file-name="LocalASTTransformation.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/homeTask3/LocalASTTransformation.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="47" selection-start="534" selection-end="534" vertical-scroll-proportion="0.59130436">
+            <state line="25" column="85" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.41860464">
+              <folding>
+                <element signature="e#24#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeTask2.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/homeTask2/HomeTask2.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="0" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,7 +416,7 @@
       <file leaf-file-name="Main.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="52" selection-start="257" selection-end="296" vertical-scroll-proportion="0.0">
+            <state line="27" column="38" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,16 +433,22 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/ua/max/test/modal/User.groovy" />
-        <option value="$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy" />
         <option value="$PROJECT_DIR$/src/test/MainTests.groovy" />
+        <option value="$PROJECT_DIR$/src/test/homeTask2/task2.groovy" />
+        <option value="$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy" />
+        <option value="$PROJECT_DIR$/src/test/homeTask2/HomeTask2.groovy" />
+        <option value="$PROJECT_DIR$/src/test/homeTask3.java" />
+        <option value="$PROJECT_DIR$/src/test/homeTask3/ASTTransformation.java" />
+        <option value="$PROJECT_DIR$/src/test/homeTask3/ASTTransformation.groovy" />
+        <option value="$PROJECT_DIR$/src/test/homeTask3/LocalASTTransformation.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -143,6 +478,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,8 +510,26 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modal" />
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homeTask3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,22 +554,22 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
@@ -223,13 +577,13 @@
       <recent name="D:\work\workspaces\geekHub\lessons\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTests.testUserListSize">
+  <component name="RunManager" selected="Groovy.Main">
     <configuration default="false" name="User" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="lessons" />
-      <setting name="path" value="$PROJECT_DIR$/src/ua/max/test/modal/User.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/ua/max/test/modal/User.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/src/ua/max/test/modal" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/ua/max/test/modal" />
       <setting name="debug" value="false" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -237,12 +591,18 @@
     </configuration>
     <configuration default="false" name="Main" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="lessons" />
-      <setting name="path" value="$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="$PROJECT_DIR$/src/ua/max/test/modal" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/ua/max/test/modal" />
       <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -280,10 +640,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
+    <configuration default="false" name="task2" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="lessons" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/homeTask2/task2.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/homeTask2" />
+      <setting name="debug" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
@@ -291,8 +656,14 @@
       <setting name="path" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="D:\work\workspaces\geekHub\lessons" />
+      <setting name="workDir" value="file://D:/work/workspaces/geekHub/lessons" />
       <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -301,19 +672,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -342,6 +700,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -380,16 +751,18 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Groovy.User" />
       <item index="1" class="java.lang.String" itemvalue="Groovy.Main" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.MainTests.testUserListSize" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.task2" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MainTests.testUserListSize" />
-        <item index="1" class="java.lang.String" itemvalue="Groovy.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Groovy.User" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.task2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MainTests.testUserListSize" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.User" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -407,32 +780,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="1912" y="-8" width="1616" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910814" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.67001116" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3011583" sideWeight="0.67107004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -462,7 +836,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -472,6 +846,10 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -485,6 +863,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
@@ -496,6 +875,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/User.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="21" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
@@ -503,9 +889,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/homeTask2/HomeTask2.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="30" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+        <state line="70" column="68" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/User.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -524,10 +917,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/MainTests.groovy">
+    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="47" selection-start="534" selection-end="534" vertical-scroll-proportion="0.59130436">
+        <state line="12" column="30" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/homeTask2/default.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/homeTask2/done_1_second.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/homeTask2/HomeTask2.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/Main.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="38" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/max/test/modal/User.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.3255814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/homeTask1/HomeTask1.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="25" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/homeTask3/LocalASTTransformation.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="85" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.41860464">
+          <folding>
+            <element signature="e#24#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
